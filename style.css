@@ -3,18 +3,33 @@ body{
 }
 h1 {
     text-align:center;
-    margin: 30px;
-    padding: 20px;
-    width: 30vw;
     color:white
+}
+h2 {
+    color: white;
+    text-align:center;
+}
+ul {
+    color:white;
+}
+#bad {
+    color: white
+}
+ol {
+    color: white;
 }
 p {
-    color:white
+    color:white;
 }
 .minitext {
-    font-size: 5px
+    font-size: 5px;
 }
 button {
     background-color: white;
     padding: 10px;
+}
+#luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
