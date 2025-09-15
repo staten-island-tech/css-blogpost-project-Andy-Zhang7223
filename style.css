@@ -3,7 +3,7 @@ body{
 }
 h1 {
     text-align:center;
-    color:white
+    color:white;
 }
 h2 {
     color: white;
@@ -11,25 +11,27 @@ h2 {
 }
 ul {
     color:white;
+    text-align: center;
 }
 #bad {
-    color: white
+    color: white;
+    text-align: center;
 }
 ol {
     color: white;
+    text-align: center;
 }
 p {
     color:white;
+    text-align: center;
 }
 .minitext {
     font-size: 5px;
-}
-button {
-    background-color: white;
-    padding: 10px;
+    text-align: center;
 }
 #luckiest-guy-regular {
   font-family: "Luckiest Guy", cursive;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
 }
