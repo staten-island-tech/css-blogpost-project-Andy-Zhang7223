@@ -29,9 +29,14 @@ p {
     font-size: 5px;
     text-align: center;
 }
+img {
+    margin: 0 auto;
+    display: block;
+}
 #luckiest-guy-regular {
   font-family: "Luckiest Guy", cursive;
   font-weight: 400;
   font-style: normal;
   text-align: center;
+  border: 10px solid white
 }
